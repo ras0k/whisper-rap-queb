@@ -1,0 +1,3 @@
+1- dead links
+2- convert videoclips to audio
+3- retry with french language settings
