@@ -1,4 +1,7 @@
-(NON, OUIN) (4x)
+NON, OUIN
+NON, OUIN
+NON, OUIN
+NON, OUIN
 
 Le gros t’es-tu fake? (NON)
 Tu veux-tu un œuf avec un steak? (OUIN)
