@@ -1,2 +1,3 @@
 # whisper-rap-queb
-a whisper fine-tune using the top 100 songs with the tag "quebec rap" on Genius.com
+
+This project proposes a study of automatic transcription for Quebec rap lyrics. By leveraging OpenAI’s Whisper model, extracting text via Genius.com, and analyzing the Word Error Rate (WER), this project aims to achieve a statistically significant reduction in Whisper’s WER when applied to rap music. Accuracy will first be evaluated using a specific benchmark designed for this task. Subsequently, a corpus of approximately one hundred to one thousand songs will be constructed and used to fine-tune the model. Finally, a report will synthesize the results and statistical analyses. This project serves as an exploratory foundation for larger-scale fine-tuning efforts, such as "whisper-rap-fr" or "whisper-rap".
