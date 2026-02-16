@@ -4,3 +4,4 @@ check for "Follow" "2x" and (empty, [Refrain], empty) or (empty, [Hook], empty) 
 remove empty lines
 remove any star (*)
 convert all << >> to " "
+fit it all inside the csv?
