@@ -1,0 +1,6 @@
+remove [Brackets]
+remove (ad-libs)
+check for "Follow" "2x" and (empty, [Refrain], empty) or (empty, [Hook], empty) but no auto-remove
+remove empty lines
+remove any star (*)
+convert all << >> to " "
