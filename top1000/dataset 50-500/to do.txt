@@ -1,0 +1,5 @@
+check for ’ and replace to '
+check for "" and <<>> and replace to nothing
+check for () and replace to nothing
+check for " ," and replace to ","
+check for "y'a" and sometimes replace to "y a"
