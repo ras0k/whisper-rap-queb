@@ -1,5 +1,5 @@
 check for ’ and replace to '
-check for "" and <<>> and replace to nothing
+check for " or '' and <<>> and replace to nothing
 check for () and replace to nothing
 check for " ," and replace to ","
-check for "y'a" and sometimes replace to "y a"
+check for "y'a" or "y’a" (capital Y or not) and sometimes replace to "y a" (correct case, do manually)
