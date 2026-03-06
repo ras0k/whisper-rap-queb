@@ -3,3 +3,5 @@ check for " or '' and <<>> and replace to nothing
 check for () and replace to nothing
 check for " ," and replace to ","
 check for "y'a" or "y’a" (capital Y or not) and sometimes replace to "y a" (correct case, do manually)
+check for ... or .. and replace with nothing
+double or more spaces -> single space
