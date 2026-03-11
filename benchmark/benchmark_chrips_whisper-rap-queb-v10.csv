@@ -1,0 +1,53 @@
+#,Title,WER_whisper,WER_chirps,WER_v10
+1,S/O le Flem,0.34,0.18,0.26
+2,GLOWED UP,1.00,0.32,0.27
+3,Toutes les femmes savent danser,0.21,0.15,0.23
+4,Dans les buissons,0.30,0.18,0.25
+5,Sensuelle,1.00,0.30,0.33
+6,TTTTT,0.74,0.17,0.65
+7,Devenir immortel (et puis mourir),1.00,0.11,0.21
+8,Nouveaux riches,0.27,,
+9,38 SPECIAL,0.55,,
+10,Gayé,0.52,,
+11,56K,0.43,,0.27
+12,Les choses se passent,0.35,,
+13,Drinking in L.A.,1.00,,
+14,Montréal $ud,1.00,,
+15,XOXO,0.48,,
+16,La folle,0.36,,
+17,Explosif,0.65,,
+18,Enfant de l'asphalte,0.36,,
+19,Un ours mal léché,0.52,,
+20,Blacklights,0.22,,
+21,Le secret des dieux,0.42,,
+22,"Hell, What a View",0.38,,
+23,Désirée,0.49,,
+24,Power - Remix,1.00,,
+25,"Sometimes, All The Time",0.36,,
+26,SAPOUD,1.00,,
+27,P.R.M.F,0.67,,
+28,Je me souviens,0.41,,
+29,On My Life,0.56,,
+30,For The Low,0.23,,
+31,Copilote,1.00,,
+32,Montréal-Nord,0.31,,
+33,On Fouette,1.00,,
+34,OUIN,0.57,,
+35,Blow,1.00,,
+36,Pour la vie,0.50,,
+37,Parler caca dans l'aile,1.00,,
+38,Makeup,0.64,,
+39,Ça que c’tait,0.69,,
+40,La route est longue,0.26,,
+41,Dans la nuit,0.29,,
+42,Dis moi,0.32,,
+43,Devenir Fou,0.69,,
+44,Mauvais garçons,0.11,,
+45,Johnny,0.89,,
+46,A l'aise,0.14,,
+47,Mode de vie,0.42,,
+48,Nana,1.00,,
+49,24 heures à vivre,0.31,,
+50,Médailles,0.34,,
+,,,,
+,average,0.57,0.20,0.31
